@@ -1,1 +1,1 @@
-# Klasifikasi Glaukoma Menggunakan Algoritma CNN
+# CNN Architecture for Classification Glaucoma Disease 
